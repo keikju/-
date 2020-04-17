@@ -11,7 +11,7 @@ this is all a WIP tho
 
 ```
 divided by room
-click emoji for link!
+click emoji for link! small emote = list not done yet
 ```
 |   |`🚽`|   |
 |---|---|---|
@@ -23,12 +23,12 @@ click emoji for link!
 categorized
 ```
 
-- 🧢 Hat
-- ⛑ Helmet
-- 👓 Accessory 
-- 👔 One Piece
-- 👕 Shirt
-- 👖 Pants
-- 🧦 Socks
-- 👞 Shoe
-- 🎒 Bag
+- `🧢` Hat
+- `⛑` Helmet
+- `👓` Accessory 
+- `👔` One Piece
+- `👕` Shirt
+- `👖` Pants
+- `🧦` Socks
+- `👞` Shoe
+- `🎒` Bag
