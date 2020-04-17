@@ -1,6 +1,7 @@
 # Hungry Bug島 Needs
 
-Stuff I want for my island. Please help 🙇‍♂️
+stuff I want for my island. plz help 🙇‍♂️ 
+this is all a WIP tho
 
 ---
 
@@ -12,10 +13,10 @@ Stuff I want for my island. Please help 🙇‍♂️
 divided by room
 click emoji for link!
 ```
-|   |🚽|   |
+|   |`🚽`|   |
 |---|---|---|
-|🥊|🥟|🐊|
-|[🍄](https://github.com/keikju/bugjimaneeds/blob/master/poo/kinoko.md)|   |💉|
+|`🥊`|`🥟`|`🐊`|
+|[🍄](https://github.com/keikju/bugjimaneeds/blob/master/poo/kinoko.md)|   |`💉`|
 
 ### 🧺 Closet
 ```
