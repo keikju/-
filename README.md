@@ -5,9 +5,6 @@ Stuff I want for my island. Please help 🙇‍♂️
 ---
 
 ### 🏝 Island Needs
-```
-categorized
-```
 
 ### 🏚 House Needs
 
