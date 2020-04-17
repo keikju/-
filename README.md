@@ -4,7 +4,7 @@ Stuff I want for my island. Please help 🙇‍♂️
 
 ---
 
-### 🏝 Island Needs
+### [🏝 Island Needs](https://github.com/keikju/bugjimaneeds/blob/master/poo/island.md)
 
 ### 🏚 House Needs
 
